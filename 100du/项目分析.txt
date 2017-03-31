@@ -1,3 +1,5 @@
+模块化的开发
+优化：1.把公共的样式写成类，减少css代码加载量
 /*public*/
 fl{float:left;}
 fr{float:right;}
